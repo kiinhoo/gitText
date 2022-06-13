@@ -7,5 +7,6 @@ public class test {
         System.out.println("hot_fix commit");
         System.out.println("master commit");
         System.out.println("master push");
+        System.out.println("web change");
     }
 }
