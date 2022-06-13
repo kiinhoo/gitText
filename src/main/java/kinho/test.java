@@ -6,5 +6,6 @@ public class test {
         System.out.println("second commit");
         System.out.println("hot_fix commit");
         System.out.println("master commit");
+        System.out.println("master push");
     }
 }
